@@ -29,3 +29,8 @@ Manage a DevOps project using Git best practices.
 
 ## Author
 Bhavna79
+
+## Screenshot
+
+![Git Bash Screenshot](./screenshot.jpg.docx)
+
